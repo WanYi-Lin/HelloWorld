@@ -3,6 +3,8 @@
 public class HelloWorld{
 
 		public static void main(String[] args){
-					System.out.println("Hello 你好");
+
+					System.out.println("Hello 老師你好");
+				
 			}
 	}
